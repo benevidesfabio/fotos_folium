@@ -1,2 +1,2 @@
-## Simple ma website
+## Simples Web site
 Exemplo
